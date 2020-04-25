@@ -1,0 +1,11 @@
+C:\Users\proko\source\repos\avabpro\Restaurant-Menu-Continued\Restaurant_Menu_Continued\bin\Debug\netcoreapp3.1\Restaurant_Menu_Continued.exe
+C:\Users\proko\source\repos\avabpro\Restaurant-Menu-Continued\Restaurant_Menu_Continued\bin\Debug\netcoreapp3.1\Restaurant_Menu_Continued.deps.json
+C:\Users\proko\source\repos\avabpro\Restaurant-Menu-Continued\Restaurant_Menu_Continued\bin\Debug\netcoreapp3.1\Restaurant_Menu_Continued.runtimeconfig.json
+C:\Users\proko\source\repos\avabpro\Restaurant-Menu-Continued\Restaurant_Menu_Continued\bin\Debug\netcoreapp3.1\Restaurant_Menu_Continued.runtimeconfig.dev.json
+C:\Users\proko\source\repos\avabpro\Restaurant-Menu-Continued\Restaurant_Menu_Continued\bin\Debug\netcoreapp3.1\Restaurant_Menu_Continued.dll
+C:\Users\proko\source\repos\avabpro\Restaurant-Menu-Continued\Restaurant_Menu_Continued\bin\Debug\netcoreapp3.1\Restaurant_Menu_Continued.pdb
+C:\Users\proko\source\repos\avabpro\Restaurant-Menu-Continued\Restaurant_Menu_Continued\obj\Debug\netcoreapp3.1\Restaurant_Menu_Continued.csprojAssemblyReference.cache
+C:\Users\proko\source\repos\avabpro\Restaurant-Menu-Continued\Restaurant_Menu_Continued\obj\Debug\netcoreapp3.1\Restaurant_Menu_Continued.AssemblyInfoInputs.cache
+C:\Users\proko\source\repos\avabpro\Restaurant-Menu-Continued\Restaurant_Menu_Continued\obj\Debug\netcoreapp3.1\Restaurant_Menu_Continued.AssemblyInfo.cs
+C:\Users\proko\source\repos\avabpro\Restaurant-Menu-Continued\Restaurant_Menu_Continued\obj\Debug\netcoreapp3.1\Restaurant_Menu_Continued.dll
+C:\Users\proko\source\repos\avabpro\Restaurant-Menu-Continued\Restaurant_Menu_Continued\obj\Debug\netcoreapp3.1\Restaurant_Menu_Continued.pdb
